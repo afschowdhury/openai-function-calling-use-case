@@ -1,0 +1,121 @@
+{
+  "Stores": [
+    {
+      "store_name": "Tom's Kitchen",
+      "branches": [
+        {
+          "Mohammadpur": {
+            "Delivery Location": [
+              {
+                "Mohammapdpur": {
+                  "Delivery-charge": "30 Taka",
+                  "Delivery-time": "20 minutes"
+                }
+              },
+              {
+                "Bosila": {
+                  "Delivery-charge": "50 Taka",
+                  "Delivery-time": "40 minutes"
+                }
+              },
+              {
+                "Shamoli": {
+                  "Delivery-charge": "40 Taka",
+                  "Delivery-time": "30 minutes"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "Dhanmondi": {
+            "Delivery Location": [
+              {
+                "Dhanmondi": {
+                  "Delivery-charge": "20 Taka",
+                  "Delivery-time": "10 minutes"
+                }
+              },
+              {
+                "Jigatola": {
+                  "Delivery-charge": "25 Taka",
+                  "Delivery-time": "20 minutes"
+                }
+              },
+              {
+                "Shankar": {
+                  "Delivery-charge": "40 Taka",
+                  "Delivery-time": "30 minutes"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "menu": [
+        {
+          "title": "burger 1",
+          "sizeAndPrices": [
+            {
+              "size": "small",
+              "price": 200
+            },
+            {
+              "size": "large",
+              "price": 300
+            }
+          ],
+          "food": "burger",
+          "items": ["chicken", "beef", "cheese"]
+        },
+        {
+          "title": "burger 2",
+          "sizeAndPrices": [
+            {
+              "size": "small",
+              "price": 250
+            },
+            {
+              "size": "large",
+              "price": 350
+            }
+          ],
+          "food": "burger",
+          "items": ["chicken", "tomato", "cheese"]
+        },
+        {
+          "title": "pizza 1",
+          "sizeAndPrices": [
+            {
+              "size": "9 inch",
+              "price": 500
+            },
+            {
+              "size": "12 inch",
+              "price": 800
+            }
+          ],
+          "food": "pizza",
+          "items": ["pepperoni", "sausage", "chicken"]
+        },
+        {
+          "title": "kacchi",
+          "sizeAndPrices": [
+            {
+              "size": "small",
+              "price": 150
+            },
+            {
+              "size": "large",
+              "price": 250
+            }
+          ],
+          "food": "kacchi",
+          "items": ["mutton", "beef", "kacchi"]
+        }
+      ],
+      "opening-time": "10 am",
+      "closing-time": "8 pm"
+    }
+  ]
+}
