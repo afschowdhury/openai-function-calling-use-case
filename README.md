@@ -13,7 +13,7 @@ Follow the steps below to set up and run the demo:
 Clone this repository to your local machine using the following command:
 
 
-`git clone git@github.com:afschowdhury/openai-function-calling-use-case.git`
+`git clone git@github.com:<YOUR-USER-NAME>/openai-function-calling-use-case.git`
 
 ### Create a Virtual Environment:
 
